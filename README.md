@@ -42,6 +42,8 @@
 
 <section class="contact">
   <h2>Contact</h2>
+  <p>
+    Phone number : 8278851821
   <p>Email: preetichaudhary.ds@gmail.com</p>
   <p>GitHub: https://github.com/preetichaudharyds-droid</p>
 </section>
