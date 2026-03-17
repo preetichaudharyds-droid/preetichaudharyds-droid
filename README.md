@@ -1,11 +1,11 @@
-## Hi there 👋
+
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Data Scientist Portfolio</title>
+  
   <link rel="stylesheet" href="styles.css">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
@@ -55,7 +55,7 @@
 </section>
 
 <footer>
-  <p>© 2026 Your Name</p>
+  <p>© 2026 Preeti</p>
 </footer>
 
 </body>
