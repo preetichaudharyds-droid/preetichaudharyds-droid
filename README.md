@@ -32,7 +32,10 @@
     <li>SQL</li>
     <li>Pandas & NumPy</li>
     <li>Machine Learning</li>
-    <li>Data Visualization</li>
+    <li>Data analysis </li>
+    <li>Power BI</li>
+    <li>Advance Excel</li>
+    <li>AI</li>
   </ul>
 </section>
 
@@ -51,65 +54,9 @@
 <section class="contact">
   <h2>Contact</h2>
   <p>Email: preetichaudhary.ds@gmail.com</p>
-  <p>GitHub: </p>
+  <p>GitHub: https://github.com/preetichaudharyds-droid</p>
 </section>
 
-<footer>
-  <p>© 2026 Preeti</p>
-</footer>
-
-</body>
-</html>
 
 
-/* styles.css */
-body {
-  margin: 0;
-  font-family: 'Poppins', sans-serif;
-  background: #0f172a;
-  color: white;
-}
-
-header {
-  text-align: center;
-  padding: 50px 20px;
-  background: linear-gradient(90deg, #06b6d4, #3b82f6);
-}
-
-.hero img {
-  width: 100%;
-  height: 400px;
-  object-fit: cover;
-}
-
-section {
-  padding: 40px;
-  text-align: center;
-}
-
-.skills ul {
-  list-style: none;
-  padding: 0;
-}
-
-.skills li {
-  display: inline-block;
-  margin: 10px;
-  padding: 10px 20px;
-  background: #1e293b;
-  border-radius: 20px;
-}
-
-.project-card {
-  background: #1e293b;
-  margin: 20px auto;
-  padding: 20px;
-  border-radius: 10px;
-  width: 80%;
-}
-
-footer {
-  background: #020617;
-  padding: 20px;
-  text-align: center;
-}
+.
