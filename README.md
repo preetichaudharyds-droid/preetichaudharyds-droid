@@ -39,17 +39,6 @@
   </ul>
 </section>
 
-<section class="projects">
-  <h2>Projects</h2>
-  <div class="project-card">
-    <h3>Sales Prediction Model</h3>
-    <p>Built a machine learning model to predict sales using regression techniques.</p>
-  </div>
-  <div class="project-card">
-    <h3>Customer Segmentation</h3>
-    <p>Used clustering algorithms to segment customers based on behavior.</p>
-  </div>
-</section>
 
 <section class="contact">
   <h2>Contact</h2>
