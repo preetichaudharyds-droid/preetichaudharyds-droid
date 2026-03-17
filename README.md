@@ -13,7 +13,7 @@
 
 <header>
   <h1>Hi, I'm Preeti </h1>
-  <p>Aspiring Data Scientist | Python | SQL | Machine Learning</p>
+  <p>Aspiring Data Scientist </p>
 </header>
 
 <section class="hero">
